@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid18034",
+  "B": "/home/dev/feedback/uid18034",
+  "sha": "6eafdb6268aca9ca10494069cb637a1b599d6670",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "AcademySoftwareFoundation",
+    "repo": "openexr",
+    "sha": "6eafdb6268aca9ca10494069cb637a1b599d6670"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "openexr",
+    "cloneUrl": "https://github.com/Rrr119/openexr.git"
+  },
+  "at": "2026-11-15T01:42:36.210Z"
+}
